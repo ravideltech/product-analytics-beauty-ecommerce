@@ -111,8 +111,7 @@ MARS_Cosmetics_Dashboard/
 
 
 ## 🙌 Let's Connect!
-* 💼 [LinkedIn](https://www.linkedin.com/in/umang-sinha-2b1853241)
-* 📧 [G-Mail](umang.2003@gmail.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/ravikumardtu/)
 
 If you found this project insightful or have feedback to share, feel free to connect or drop a ⭐️ on the repo!
 
